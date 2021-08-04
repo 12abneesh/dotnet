@@ -1,0 +1,16 @@
+/home/abneesh/abhi/bin/Debug/net5.0/abhi
+/home/abneesh/abhi/bin/Debug/net5.0/abhi.deps.json
+/home/abneesh/abhi/bin/Debug/net5.0/abhi.runtimeconfig.json
+/home/abneesh/abhi/bin/Debug/net5.0/abhi.runtimeconfig.dev.json
+/home/abneesh/abhi/bin/Debug/net5.0/abhi.dll
+/home/abneesh/abhi/bin/Debug/net5.0/ref/abhi.dll
+/home/abneesh/abhi/bin/Debug/net5.0/abhi.pdb
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.csproj.AssemblyReference.cache
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.GeneratedMSBuildEditorConfig.editorconfig
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.AssemblyInfoInputs.cache
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.AssemblyInfo.cs
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.csproj.CoreCompileInputs.cache
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.dll
+/home/abneesh/abhi/obj/Debug/net5.0/ref/abhi.dll
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.pdb
+/home/abneesh/abhi/obj/Debug/net5.0/abhi.genruntimeconfig.cache
